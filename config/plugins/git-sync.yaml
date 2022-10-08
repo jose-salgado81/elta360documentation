@@ -1,0 +1,35 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/jose-salgado81/elta360documentation.git'
+no_user: '0'
+user: jose-salgado81
+password: gitsync-def502009ce5e886a6b7604ec490b790fb085faa8e80c3844fbf21ae93130e4fdaaa9fc254b3587686b3df6f99768185f1c2e11b75d534c54ff9dcb54fab4d762aa08f1ce0fdf326a6381d293e06bf370b06a5de17bf09853530f64e1183f508563305ba103b30df73af25fadc8910f00391524491083718977819f0
+webhook: /_git-sync-aff4a95d1dd8
+webhook_enabled: '0'
+webhook_secret: 6b522ba0d441872ba57e07c47a782ec3b47a5f8e937cad78
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false
