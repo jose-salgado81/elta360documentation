@@ -35,4 +35,5 @@ To change the name of an existing project...
 
 ![change%20project%20name%202](change%20project%20name%202.gif "change%20project%20name%202")
 
-{% include 'partials/comments.html.twig' with {'page': page} %} 
+
+
