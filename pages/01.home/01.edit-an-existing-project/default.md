@@ -11,8 +11,6 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-blog_url: /blog
-show_breadcrumbs: true
 ---
 
 #### [Back to Help section](https://elsa360documentation.josemanuelsalgado.com/)
