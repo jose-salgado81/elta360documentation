@@ -2,6 +2,15 @@
 title: 'Edit an existing project'
 published: true
 media_order: 'change project name 2.gif'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
 #### [Back to Help section](https://elsa360documentation.josemanuelsalgado.com/)
