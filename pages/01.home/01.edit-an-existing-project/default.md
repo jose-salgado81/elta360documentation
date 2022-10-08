@@ -11,7 +11,6 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-redirect_default_route: true
 ---
 
 #### [Back to Help section](https://elsa360documentation.josemanuelsalgado.com/)
