@@ -1,7 +1,7 @@
 ---
 title: 'Edit an existing project'
 published: true
-media_order: 'change project name.gif'
+media_order: 'change project name.gif,change project name-min.gif'
 content:
     items:
         - '@self.children'
@@ -35,4 +35,5 @@ To change the name of an existing project...
 
 ![change%20project%20name](change%20project%20name.gif "change%20project%20name")
 
-
+The following is the same gif image parsed through a gif compressor reducing 58% file size, can you tell a change of quality?
+![change%20project%20name-min](change%20project%20name-min.gif "change%20project%20name-min")
