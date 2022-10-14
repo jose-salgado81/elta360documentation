@@ -1,7 +1,7 @@
 ---
 title: 'Edit an existing project'
 published: true
-media_order: 'change project name.gif,change project name-min.gif'
+media_order: 'change project name.gif,change project name-min.gif,change project name.mp4'
 content:
     items:
         - '@self.children'
@@ -35,6 +35,10 @@ To change the name of an existing project...
 
 ![change%20project%20name](change%20project%20name.gif "change%20project%20name")
 
-!The following is the same gif image parsed through a gif compressor reducing 58% file size, can you tell a change in quality?
+! The following is the same gif image parsed through a gif compressor reducing 58% file size, (from 3.4 MB to 1.4 MB) can you see a change in quality?
 
 ![change%20project%20name-min](change%20project%20name-min.gif "change%20project%20name-min")
+
+! The following is the same sequence but encoded as an MP4 file with a 60% compression at 30 fps (544 Kbps file size). In some cases, a video is more convenient than an animated gif. For your convenience, I will provide you with both gifs and mp4 files.
+
+![change%20project%20name](change%20project%20name.mp4 "change%20project%20name")
