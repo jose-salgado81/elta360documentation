@@ -1,7 +1,7 @@
 ---
 title: 'Edit an existing project'
 published: true
-media_order: 'change project name 2.gif'
+media_order: 'change project name.gif'
 content:
     items:
         - '@self.children'
@@ -33,8 +33,6 @@ To change the name of an existing project...
 2. Select the **⋮** icon of the project you want to edit, a menu will open.
 3. Select **Edit Information** to open the Edit Project window.
 
-![change%20project%20name%202](change%20project%20name%202.gif "change%20project%20name%202")
-
-! Updates coming on Thursday, 12
+![change%20project%20name](change%20project%20name.gif "change%20project%20name")
 
 
