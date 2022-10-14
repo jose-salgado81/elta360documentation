@@ -35,7 +35,7 @@ To change the name of an existing project...
 
 ![change%20project%20name](change%20project%20name.gif "change%20project%20name")
 
-!! The following is the same sequence encoded as an MP4 file with 60% compression at 30 fps). Sometimes a video is more convenient than an animated GIF. The animated gif is 3.4 MB, while the MP4 is only 0.6 MB. An MP4 file can also display more colors than a GIF.
+!! The following is the same sequence encoded as an MP4 file with 60% compression at 30 fps). Sometimes a video is more convenient than an animated GIF. The animated GIF is 3.4 MB, while the MP4 is only 0.6 MB. An MP4 file can also display more colors than a GIF.
 
 !! For your convenience, I will provide you with both gifs and mp4 files.
 
