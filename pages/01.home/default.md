@@ -4,7 +4,7 @@ title: 'Help section'
 
 # Help section
 
-## What do you want to do?
+# What do you want to do?
 !!!! Another subtitle can be used, for example: **Help Topics**, **Browse Help Topics**, or **Browse Articles**. 
 
 !!!! Many Help sections also include a **Search** field right away.
